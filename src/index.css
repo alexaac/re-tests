@@ -79,3 +79,8 @@ button:disabled {
 .error {
   color: red;
 }
+
+.game-form {
+  display: flex;
+  flex-direction: column;
+}
